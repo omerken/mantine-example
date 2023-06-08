@@ -11,7 +11,7 @@ function App() {
 
     return (
         <div className={styles.App}>
-            <div>
+            <div className={styles.layout}>
                 <a href="https://vitejs.dev" target="_blank">
                     <ViteLogo
                         height="6em"
